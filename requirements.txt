@@ -1,0 +1,8 @@
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+yfinance==0.2.66
+numpy==2.0.2
+statsmodels==0.14.6
+sklearn-compat==0.1.5
+sklearn-pandas==2.2.0
